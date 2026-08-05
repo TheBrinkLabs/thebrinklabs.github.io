@@ -1,3 +1,4 @@
+ownerdomain=thebrinklabs.github.io
 targetbetter.com, 82228, RESELLER
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 anzu.io, 691e95644e633a6eee2567ee, RESELLER
@@ -120,4 +121,3 @@ vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
 copper6.com, 766114, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
-ownerdomain=thebrinklabs.github.io
